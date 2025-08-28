@@ -1,0 +1,25 @@
+📷 Automating Instagram Posts with Python 🚀  
+
+Ever wondered if you could publish an **Instagram post directly from your terminal**?  
+This week, I explored the **Instagram Graph API** and built a Python script to do just that.  
+
+🔹 Steps I followed:  
+1️⃣ Generated a long-lived access token from the Meta Developer App  
+2️⃣ Collected my Instagram Business Account ID  
+3️⃣ Wrote a Python script using `requests` to upload an image + caption  
+4️⃣ Published it directly from Linux terminal  
+
+⚙️ Run it like this:
+source load_env.sh
+python3 post_instagram.py  
+
+✅ Result: My image + caption was instantly live on Instagram!  
+
+✨ Why this matters:  
+- Social media automation saves time  
+- Can auto-publish project updates or blogs  
+- Shows the magic of **Python + APIs**  
+
+👉 Question: Would you trust automation to handle your Instagram posts?  
+
+#Python #InstagramAPI #Automation #DevOps #LearningByDoing
